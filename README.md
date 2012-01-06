@@ -2,6 +2,9 @@
 
 See with the eyes of the Kwisatz Haderach.
 
+Using data from [ClojureSphere](http://clojuresphere.herokuapp.com);
+much thanks to that project.
+
 ## Usage
 
     $ lein plugin install melange 0.1.0
